@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, I'm Sai Durga Prasad</h1>
+<h1 align="center">Hello 👋, I'm Sai Durga Prasad</h1>
 <h3 align="center">Data Scientist & Machine Learning Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
