@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saibattula93&label=Profile%20views&color=0e75b6&style=flat" alt="saibattula93" /> </p>
 
-- 🔭 My latest projects: [PolyInnovate - User Friendly Research Tool](https://github.com/saibattula93/PolyInnovate), [Student Performance Prediction](https://github.com/saibattula93/Student_Performance_Prediction)
+- 🔭 My latest projects: [PolyInnovate - User Friendly Research Tool](https://github.com/saibattula93/PolyInnovate), [Student Score Prediction](https://github.com/saibattula93/Student_Performance_Prediction)
 - 
 - 🌱 I’m currently learning **Deep Learning, LLMOps**
 
