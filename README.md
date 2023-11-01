@@ -4,17 +4,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saibattula93&label=Profile%20views&color=0e75b6&style=flat" alt="saibattula93" /> </p>
 
-- 🔭 I’m currently learning **NLP and Deep Learning**
+- 🔭 My latest projects: [PolyInnovate - User Friendly Research Tool](https://github.com/saibattula93/PolyInnovate), [Student Performance Prediction](https://github.com/saibattula93/Student_Performance_Prediction)
+- 
+- 🌱 I’m currently learning **Deep Learning, LLMOps**
 
-- 🌱 I've completed my Machine Learning Internship in [Antern](https://antern.co/)
+- 💪 I've completed my Machine Learning Internship in [Antern](https://antern.co/)
+
+- 🤝 You can find me on LinkedIn [saidurgaprasadbattula](https://www.linkedin.com/in/saidurgaprasadbattula/)
 
 - 📝 I regularly write articles on [analyticsvidhya](https://www.analyticsvidhya.com/blog/author/sai7181889/)
 
-- 💬 Ask me about **Statistics, Machine Learning, Deep Learning & NLP**
+- 💬 Ask me about **Statistics, Machine Learning, Deep Learning, NLP, LLMs and Data science**
 
 - 📫 How to reach me **saidurgaprasadbattula@gmail.com**
 
-- 📄 Know More about Me [saidurgaprasadbattula](https://www.linkedin.com/in/saidurgaprasadbattula/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
