@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Sai Durga Prasad</h1>
-<h3 align="center">A Enthusiastic Machine Learning Engineer</h3>
+<h3 align="center">A Passionate Machine Learning Engineer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saibattula93&label=Profile%20views&color=0e75b6&style=flat" alt="saibattula93" /> </p>
